@@ -149,6 +149,12 @@ can often be considered as melody annotations as well.
 
 .. _notes:
 
+.. _mode:
+
+Mode
+^^^^
+Musical mode. Typically associated with the major and minor scales in the Western musical traditions.
+
 Notes
 ^^^^^
 Musical note events, typically encoded as sequences of start time, end time, label. The label typically
